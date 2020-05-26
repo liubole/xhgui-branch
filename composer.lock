@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6b3c011cd35199e5498a83a591ec259d",
+    "content-hash": "a08632c8f7ceac646c7ab9e5bdae48b5",
     "packages": [
         {
             "name": "alcaeus/mongo-php-adapter",
