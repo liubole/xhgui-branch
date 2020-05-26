@@ -1,5 +1,5 @@
 {
-    "name": "laynefyc/xhgui-chinese-local",
+    "name": "laynefyc/xhgui-chinese-lib",
     "description": "From perftools/xhgui,A web based interface for viewing profile data collected by XHProf.",
     "license": "MIT",
     "autoload": {
@@ -24,15 +24,5 @@
         "ext-mongo": "Mongo is needed to store profiler results for PHP < 7.",
         "ext-mongodb": "Mongo is needed to store profiler results for PHP > 7.",
         "alcaeus/mongo-php-adapter": "Mongo PHP Adapter is required for PHP >7 (when using ext-mongodb)"
-    },
-    "repositories": {
-        "0": {
-            "type": "composer",
-            "url": "http://packages.idc.xiaozhu.com"
-        },
-        "packagist": {
-            "type": "composer",
-            "url": "https://mirrors.aliyun.com/composer/"
-        }
     }
 }
